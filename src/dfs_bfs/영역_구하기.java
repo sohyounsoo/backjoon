@@ -10,7 +10,7 @@
 1 7 13
  */
 
-package dfs;
+package dfs_bfs;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -18,7 +18,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-import dfs.단지번호붙이기.Point;
+import dfs_bfs.단지번호붙이기.Point;
 
 public class 영역_구하기 {
 
