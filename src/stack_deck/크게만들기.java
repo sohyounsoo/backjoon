@@ -30,7 +30,8 @@ public class 크게만들기 {
             
             stack.push(str.charAt(i));
         }
-
+        
+        //그 후, K 개 만큼 제거하지 않는 경우도 있기 때문에 pop
         while(true){
             if(stack.size() == len) {
             	break;
