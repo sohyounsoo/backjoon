@@ -5,7 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-
+/**
+ * 구간의 합배열
+ */
 public class 구간_합_구하기_11659 {
 
     public static void main(String[] args) throws IOException {
